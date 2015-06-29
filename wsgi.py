@@ -85,7 +85,9 @@ class Hello(object):
             <body>
             第七組齒輪部分<br />
             <a href="mygeartest2">mygeartest2</a><br />
+            以下為40223137(黃柏學)的齒輪<br />
             <a href="mygeartest3">mygeartest3</a><br />
+            以下為40223137(黃柏學)與40223120(林家豪)的協同齒輪<br />
             <a href="mygeartest4">mygeartest4</a><br />
             <a href="man">man(自動組立)</a><br />
             <a href="man2">man2(全組分工組立)</a><br />
